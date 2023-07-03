@@ -4,4 +4,5 @@ I build this repository for cover my fun-projects on cloud and share the source 
 
 ## Fun-Project List
 1. Calculator (HTNL, CSS, Vanilla Js.)
-2. To Do List (HTML, CSS, React. Js
+2. To Do List (HTML, CSS, React. Js.)
+3. Simple Quiz App 1 (HTML, CSS, Vanilla Js.) (Coming soon)
