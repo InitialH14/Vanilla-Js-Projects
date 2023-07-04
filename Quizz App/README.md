@@ -1,4 +1,4 @@
-# Hadid's Quiz
+# Hadid's Quiz App
 Hi there. Welcome to Hadid's Quizz. This is simple quizz app. Now, i just insert 3 questions (cause it's only prototype). The next time i'll create more complex app.
 However, i'm so happy that i can create and share my quizz app to you, although it's very simple app. For unclean code, pardon me. You can contribute for the development. 
 
