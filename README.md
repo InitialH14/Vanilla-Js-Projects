@@ -1,6 +1,6 @@
 # Web-Dev-Projects
 
-I build this repository for cover my fun-projects on cloud and share the source code to you. Following is the fun-project list i build.
+I build this repository for create memorize of my fun-projects on cloud and share the source code to you. Following is the fun-project list i build.
 
 ## Fun-Project List
 1. Calculator 1 (HTNL, CSS, Vanilla Js.)
