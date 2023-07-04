@@ -1,0 +1,88 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(28, 7, 63);
+    height: 110vh;
+}
+
+#title{
+    color: white;
+    font-size: 40px;
+    margin-top: 100px;
+}
+
+.quiz{
+    width: 90%;
+    max-width: 600px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 100px auto 0;
+    margin-top: 50px;
+    background-color: white;
+}
+
+.quiz h1{
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid blue;
+    font-size: 25px;
+}
+
+#question{
+    margin-bottom: 30px;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.btn{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 15px;
+    cursor: pointer;
+    text-align: left;
+    border-radius: 4px;
+    border: 1px solid black;
+    transition: all .3s;
+}
+
+.btn:hover:not([disabled]){
+    background-color: black;
+    color: white;
+}
+
+#next-btn{
+    width: 100px;
+    padding: 10px ;
+    margin-top: 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: none;
+}
+
+.next-btn:hover{
+    background-color: darkblue;
+}
+
+#btn-hide{
+    display: none;
+}
+
+.benar {
+    background-color: rgb(38, 230, 38);
+    border: 1px solid green;
+    color: white;
+}
+
+.salah {
+    background-color: rgb(248, 67, 67);
+    border: 1px solid red;
+    color: white;
+}
